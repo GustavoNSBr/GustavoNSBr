@@ -38,17 +38,6 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
 
 ---
 
-### 🧠 Habilidades
-
-- Desenvolvimento de sites com WordPress + Elementor Pro  
-- HTML5, CSS3, PHP (Laravel)  
-- Python, Java, C, SQL  
-- Elaboração de relatórios
-- Otimização de SEO   
-- Pacote Office (Excel, Word, PowerPoint)  
-
----
-
 ### 📊 Estatísticas
 
 <p>
@@ -68,3 +57,4 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
   />
 </p>
 
+---
