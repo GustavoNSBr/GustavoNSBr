@@ -59,7 +59,7 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
       src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     />
 
-    <img 
+  <img 
       alt="Linguagens mais usadas" 
       height="200" 
       style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);" 
