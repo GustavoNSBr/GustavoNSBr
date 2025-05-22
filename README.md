@@ -15,6 +15,15 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
   />
 </a>
 
+<a href="https://www.linkedin.com/in/gustavo-nunes-silva-br/" target="_blank">
+
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+    alt="LinkedIn Badge"
+  />
+</a>
+
+
 ---
 
 ### 💻 Tecnologias e Ferramentas
@@ -40,21 +49,24 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+    alt="Estatísticas de Gustavo Nunes"
   />
 
   <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNSBr&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=10" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNSBr&layout=compact&theme=tokyonight&custom_title=Linguagens%20mais%20usadas"
+    alt="Linguagens mais usadas"
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=GustavoNSBr&locale=pt-br&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D"
+    alt="Contribuições em sequência"
+  />
+</p>
 ---
