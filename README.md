@@ -49,24 +49,20 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
 
 ### 📊 Estatísticas
 
-<div align="center">
-
-  <p align="center">
-    <img 
-      alt="Estatísticas do GitHub" 
-      height="200" 
-      style="margin-right: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);" 
-      src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
+<p align="center">
+  <img 
+    alt="Estatísticas do GitHub" 
+    height="200" 
+    style="margin-right: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);" 
+    src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
+  />
 
   <img 
-      alt="Linguagens mais usadas" 
-      height="200" 
-      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNSBr&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=10" 
-    />
-  </p>
-
-</div>
+    alt="Linguagens mais usadas" 
+    height="200" 
+    style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNSBr&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=10" 
+  />
+</p>
 
 ---
