@@ -1,50 +1,66 @@
 # 👨🏻‍💻 Gustavo Nunes Silva
 
-**`Desenvolvedor Web | Freelancer`**
+**`Desenvolvedor Web Freelancer`**
 
-Me chamo Gustavo Nunes Silva, tenho 23 anos e sou de Brasília/DF. Estou cursando Ciência da Computação na Universidade Católica de Brasília (4º semestre). Tenho experiência com atendimento ao cliente e, mais recentemente, como freelancer, desenvolvendo sites com WordPress Elementor Pro. Gosto de unir criatividade com funcionalidade, criando soluções que realmente fazem a diferença.
-
-📌 Disponível para novos desafios e oportunidades na área de tecnologia!
+Me chamo Gustavo Nunes Silva, tenho 23 anos e sou de Brasília/DF. Estou cursando Ciência da Computação na Universidade Católica de Brasília (4º semestre). Tenho experiência com atendimento ao cliente e, mais recentemente, como freelancer, desenvolvendo sites com WordPress e Elementor Pro. Gosto de unir criatividade com funcionalidade, criando soluções que realmente fazem a diferença.
 
 ---
 
 ### 🌐 Contato
 
-[![Email](https://img.shields.io/badge/E--mail-gustavonunessilvabr@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavonunessilvabr@gmail.com)  
+📧 **Email:** [gustavonunessilvabr@gmail.com]  
+📍 Brasília - DF
 
 ---
 
 ### 💻 Tecnologias e Ferramentas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30px" title="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30px" title="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30px" title="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="30px" title="Laravel"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30px" title="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30px" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px" title="SQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="30px" title="WordPress"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="30px" title="SEO"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="30px" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="30px" title="Office"/>
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/e72ca0e1ebf4a18d410a960a52389e4a4ebe10cda42e4873d329a360d4b2710e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6c61726176656c2f6c61726176656c2d6f726967696e616c2e737667"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Git" title="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+
+<br/><br/>
 
 ---
 
 ### 🧠 Habilidades
 
-- Desenvolvimento de sites com WordPress + Elementor Pro
-- Otimização de SEO
-- HTML5, CSS3, PHP (Laravel), C
-- Python, Java, SQL (básico/intermediário)
-- Pacote Office (Excel, Word, PowerPoint)
-- Atendimento ao cliente e elaboração de relatórios
+- Desenvolvimento de sites com WordPress + Elementor Pro  
+- Otimização de SEO  
+- HTML5, CSS3, PHP (Laravel)  
+- Python, Java, C, SQL  
+- Elaboração de relatórios e atendimento ao cliente  
+- Pacote Office (Excel, Word, PowerPoint)  
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=default)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=default)
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNSBr&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=10" 
+  />
+</p>
 
