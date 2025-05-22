@@ -1,14 +1,19 @@
 # 👨🏻‍💻 Gustavo Nunes Silva
 
-**`Desenvolvedor Web Freelancer`**
+**`Desenvolvedor Freelancer`**
 
-Me chamo Gustavo Nunes Silva, tenho 23 anos e sou de Brasília/DF. Estou cursando Ciência da Computação na Universidade Católica de Brasília (4º semestre). Tenho experiência com atendimento ao cliente e, mais recentemente, como freelancer, desenvolvendo sites com WordPress e Elementor Pro. Gosto de unir criatividade com funcionalidade, criando soluções que realmente fazem a diferença.
+Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um programador júnior em constante aprendizado, apaixonado por tecnologia e desenvolvimento de software. Aqui você encontrará projetos pessoais, estudos e experimentos enquanto desenvolvo minhas habilidades e exploro novas áreas do mundo da programação.
 
 ---
 
 ### 🌐 Contato
 
-📧 **Email:** [gustavonunessilvabr@gmail.com]  
+📧 **Email:** <a href="mailto:gustavonunessilvabr@gmail.com">
+  <img 
+    src="https://img.shields.io/badge/E--mail-gustavonunessilvabr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Email Badge"
+  />
+</a>
 📍 Brasília - DF
 
 ---
