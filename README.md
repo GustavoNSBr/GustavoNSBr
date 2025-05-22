@@ -14,7 +14,7 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
     alt="Email Badge"
   />
 </a>
-
+</br>
 <a href="https://www.linkedin.com/in/gustavo-nunes-silva-br/">
   <img 
     src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
