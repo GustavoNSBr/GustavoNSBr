@@ -15,8 +15,7 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
   />
 </a>
 
-<a href="https://www.linkedin.com/in/gustavo-nunes-silva-br/" target="_blank">
-
+<a href="https://www.linkedin.com/in/gustavo-nunes-silva-br/">
   <img 
     src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
     alt="LinkedIn Badge"
@@ -52,15 +51,15 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats Avançado" 
+    alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&hide=stars,issues" 
+    src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left" 
-    alt="Linguagens Mais Usadas" 
+    alt="Top Langs" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNSBr&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=10" 
   />
