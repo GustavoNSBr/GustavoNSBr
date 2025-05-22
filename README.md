@@ -14,7 +14,7 @@ My name is Gustavo Nunes Silva. I’m a 24-year-old junior developer from Brasí
     alt="Email Badge"
   />
 </a>
-</br>
+<br/>
 <a href="https://www.linkedin.com/in/gustavo-nunes-silva-br/">
   <img 
     src="https://img.shields.io/badge/LinkedIn-gustavo--nunes--silva--br-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -44,7 +44,7 @@ My name is Gustavo Nunes Silva. I’m a 24-year-old junior developer from Brasí
 <br/><br/>
 
 ---
-
+<br/><br/>
 ### 📊 GitHub Stats
 
 <p>
