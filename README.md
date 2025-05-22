@@ -55,7 +55,7 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
     alt="GitHub Stats Avançado" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=stars,issues" 
+    src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true&hide=stars,issues" 
   />
 
   <img 
@@ -65,6 +65,7 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNSBr&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=10" 
   />
 </p>
+
 
 
 ---
