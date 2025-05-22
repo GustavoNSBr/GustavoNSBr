@@ -8,7 +8,7 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
 
 ### 🌐 Contato
 
-📧 **Email:** <a href="mailto:gustavonunessilvabr@gmail.com">
+📧 <a href="mailto:gustavonunessilvabr@gmail.com">
   <img 
     src="https://img.shields.io/badge/E--mail-gustavonunessilvabr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
     alt="Email Badge"
