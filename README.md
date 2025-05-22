@@ -15,7 +15,7 @@ My name is Gustavo Nunes Silva, I'm 24 years old and I'm from Brasília, Brazil.
   />
 </a>
 </br>
-<a href="https://www.linkedin.com/in/gustavo-nunes-silva-br/">
+<a href="https://www.linkedin.com/in/gustavo-nunes-silva-br/" target="_blank" rel="noopener noreferrer">
   <img 
     src="https://img.shields.io/badge/LinkedIn-gustavo--nunes--silva--br-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
     alt="LinkedIn Badge"
