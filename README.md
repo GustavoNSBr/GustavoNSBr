@@ -1,4 +1,4 @@
-# 👋 Gustavo Nunes Silva
+# Gustavo Nunes Silva
 
 **`Developer`**
 
