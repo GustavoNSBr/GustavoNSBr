@@ -66,6 +66,4 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
   />
 </p>
 
-
-
 ---
