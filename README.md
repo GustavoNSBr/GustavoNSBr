@@ -49,21 +49,18 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
+    alt="Estatísticas do GitHub de Gustavo.NS" 
     height="200" 
-    style="padding-right: 15px; border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.5);" 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=stars,issues" 
   />
 
   <img 
-    align="left" 
-    alt="Top Langs" 
+    alt="Linguagens Mais Usadas" 
     height="200" 
-    style="border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.5);" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNSBr&theme=tokyonight&layout=compact&langs_count=10&custom_title=Linguagens%20Mais%20Usadas" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNSBr&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=8" 
   />
 </p>
 
