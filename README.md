@@ -49,52 +49,24 @@ Me chamo Gustavo Nunes Silva, tenho 24 anos e sou de Brasília/DF. Sou um progra
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNSBr&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=10" 
-  />
-</p>
-
----
-
-
-### 📊 Minhas Estatísticas no GitHub
-
 <div align="center">
 
-<a href="https://github.com/GustavoNSBr">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&locale=pt-br"
-    alt="Estatísticas de Gustavo"
-  />
-</a>
+  <p align="center">
+    <img 
+      alt="Estatísticas do GitHub" 
+      height="200" 
+      style="margin-right: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);" 
+      src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
 
-<a href="https://github.com/GustavoNSBr">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNSBr&layout=compact&theme=radical&langs_count=8&custom_title=Linguagens%20Mais%20Usadas"
-    alt="Linguagens mais usadas"
-  />
-</a>
-
-<a href="https://github.com/GustavoNSBr">
-  <img 
-    width="100%" 
-    src="https://streak-stats.demolab.com/?user=GustavoNSBr&theme=radical&locale=pt-br&mode=weekly&border=FFFFFF"
-    alt="GitHub Streak Stats"
-  />
-</a>
+    <img 
+      alt="Linguagens mais usadas" 
+      height="200" 
+      style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.5);" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNSBr&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=10" 
+    />
+  </p>
 
 </div>
+
+---
