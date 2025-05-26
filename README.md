@@ -1,26 +1,17 @@
-# Gustavo Nunes Silva
+<h1 align="center">Hi 👋, I'm Gustavo Nunes Silva</h1>
+<h3 align="center">Junior Developer from Brasília, Brazil. Passionate about technology and continuous learning.</h3>
 
-**`Developer`**
-
-My name is Gustavo Nunes Silva. I’m a 24-year-old junior developer from Brasília, Brazil, passionate about technology and software development, and committed to continuous learning. Here, you’ll find personal projects, studies, and experiments through which I hone my skills and explore new areas of programming. I am currently working as an ETL intern at First Decision.
-
----
-
-### 🌐 Contact
-
-<a href="mailto:gustavonunessilvabr@gmail.com">
-  <img 
-    src="https://img.shields.io/badge/E--mail-gustavonunessilvabr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-    alt="Email Badge"
-  />
-</a>
-<br/>
-<a href="https://www.linkedin.com/in/gustavo-nunes-silva-br/">
-  <img 
-    src="https://img.shields.io/badge/LinkedIn-gustavo--nunes--silva--br-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-    alt="LinkedIn Badge"
-  />
-</a>
+<p align="center">
+  <a href="mailto:gustavonunessilvabr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-gustavonunessilvabr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-nunes-silva-br/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-gustavo--nunes--silva--br-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/GustavoNSBr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-GustavoNSBr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
