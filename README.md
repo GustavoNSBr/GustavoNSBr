@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/gustavo-nunes-silva-br/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-gustavo--nunes--silva--br-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/GustavoNSBr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-GustavoNSBr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
