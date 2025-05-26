@@ -61,6 +61,3 @@ My name is Gustavo Nunes Silva. I’m a 24-year-old junior developer from Brasí
   </a>
 </div>
 
-
-<br/><br/>
----
