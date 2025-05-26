@@ -42,9 +42,10 @@ My name is Gustavo Nunes Silva. I’m a 24-year-old junior developer from Brasí
 <img align="left" title="Git" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <br/><br/>
-### 📊 GitHub Stats
 
 ---
+### 📊 GitHub Stats
+<br/><br/>
 
 <p>
   <img 
