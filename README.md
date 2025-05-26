@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Nunes Silva</h1>
-<h3 align="center">Junior Developer from Brasília, Brazil. Passionate about technology and continuous learning.</h3>
+<h3 align="center">I'm junior developer from Brasília, Brazil, passionate about technology and software development, and committed to continuous learning. Here, you’ll find personal projects, studies, and experiments through which I hone my skills and explore new areas of programming. I am currently working as an ETL intern at First Decision..</h3>
 
 <p align="center">
   <a href="mailto:gustavonunessilvabr@gmail.com" target="_blank">
