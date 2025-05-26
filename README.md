@@ -49,12 +49,12 @@ My name is Gustavo Nunes Silva. I’m a 24-year-old junior developer from Brasí
 <div>
   <a href="https://github.com/GustavoNSBr" target="_blank" rel="noopener noreferrer">
     <img 
-      height="48%" 
+      height="180em" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoNSBr&layout=compact&theme=tokyonight&langs_count=10" 
       alt="Top Langs" 
     />
     <img 
-      height="48%" 
+      height="180em" 
       src="https://github-readme-stats.vercel.app/api?username=GustavoNSBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
       alt="GitHub Stats"
     />
